@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "jquery-once": "^2.2.3"
+  }
+}
